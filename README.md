@@ -1,6 +1,8 @@
 # CrossModalFlow
-
 Pytorch implementation of *Promoting Single-Modal Optical Flow Network for Diverse Cross-modal Flow Estimation* (AAAI 2022)
+
+The model can be used as a powerful zero-shot multimodal image matching/registration baseline.
+
 ## Usage
 Download the pre-trained model, and put it in the 'pre_trained' folder.
 
